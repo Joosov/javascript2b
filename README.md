@@ -5,7 +5,7 @@ A jQuery exercise modifying an earlier assignment
 - The user can choose a Finnkino theatre from a dropdown menu and see the day and date of showtimes
 - Movies are added to a more visual table compared to project 2a
 - Seperate CSS and JS files
-- Published on [Netlify](https://deluxe-truffle-a85176.netlify.app/)
+- Published on [Netlify](https://unrivaled-quokka-0a87c0.netlify.app/)
 
 ## Technologies used
 
