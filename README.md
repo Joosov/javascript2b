@@ -27,3 +27,4 @@ A jQuery exercise modifying an earlier assignment
 
 ### CSS
 - A quick css file to make the site look visually appealing and similar to Finnkinos color scheme
+- improved mobile scaling
